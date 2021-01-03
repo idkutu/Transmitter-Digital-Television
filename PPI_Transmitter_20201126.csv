@@ -1,0 +1,182 @@
+ID,TRANSMITTER_NAME,MUX_OPERATOR,SERVICE,LATITUDE,LONGITUDE,TRANSMITTER_HEIGHT,CHANNEL,FREQUENCY,TRANSMITTER_POWER,TOTAL_POPULATION,COVERED_POPULATION,PANEL_DIRECTION,PHASE,TRANSMITTER_TYPE
+40,"Trans TV Sibolga","Trans TV",Digital,1.7513690000,98.7732920000,2.15,30,546,1.20,0,168581,"140Ã?Â°/2 305Ã?Â°/2",Digital,Digital
+41,"TVRI Pulau Banyak","TVRI  ",Digital,2.3053330000,97.4088670000,65.00,46,674,1.00,0,0,"150°/2,   240°/5,   330°/5",Digital,Digital
+42,"TVRI Banda Aceh","TVRI  ",Digital,5.5087970000,95.3024810000,100.00,29,538,2.00,237641326,510236,"0°/4,  130°/4,   245°/4",Digital,Digital
+43,"TVRI Gunung Gompong","TVRI  ",Digital,-0.9635250000,100.6456080000,85.00,29,538,5.00,0,107218,"140°/8,  240°/8,  320°/8",Digital,Digital
+44,"TVRI Pasaman Barat","TVRI  ",Digital,-0.1164830000,99.8846000000,65.00,42,642,2.00,0,0,"10°/2,  100°/2,  190°/6,   280°/6",Digital,Digital
+47,"TVRI Pekanbaru","TVRI  ",Digital,0.5176580000,101.4283250000,100.00,40,626,5.00,0,1464807,"10°/4, 100°/4, 190°/4,  280°/4",Digital,Digital
+48,"TVRI Batam","TVRI  ",Digital,1.1231250000,103.9456640000,100.00,48,690,2.00,0,1047205,"110°/6,  250°/6,   330°/6",Digital,Digital
+49,"TVRI Sungai Pakning","TVRI  ",Digital,1.3319810000,102.1521440000,100.00,28,530,5.00,0,213156,"0°/4,  90°/6,  180°/4,   270°/2",Digital,Digital
+50,"TVRI Tarempa","TVRI  ",Digital,3.2228670000,106.2233670000,9.05,46,674,1.00,0,0,"10°/2,  100°/8,  220°/2",Digital,Digital
+51,"TVRI Gunung Manumbing","TVRI  ",Digital,-2.0165170000,105.1810890000,50.00,39,618,2.50,0,136509,"0°/5, 90°/3",Digital,Digital
+52,"TVRI Gunung Mangkol","TVRI  ",Digital,-2.2397780000,106.0984000000,50.00,27,522,5.00,0,0,"50°/4, 140°/8, 320°/4",Digital,Digital
+53,"TVRI Bandar Baru","TVRI  ",Digital,3.2638330000,98.5400670000,70.00,28,530,5.00,0,4571837,"70°/8   340°/8 ",Digital,Digital
+54,"TVRI Bukit Sarai","TVRI  ",Digital,-0.9747440000,100.3670810000,40.00,30,546,2.00,0,901390,"70°/6,  165°/4,   335°/6",Digital,Digital
+55,"TVRI Telanaipura","TVRI  ",Digital,-1.6153470000,103.5719720000,100.00,44,658,10.00,0,1028399,"20°/4   110°/4   220°/4   290°/4",Digital,Digital
+56,"TVRI Palembang","TVRI  ",Digital,-2.9763810000,104.7389000000,40.00,29,538,10.00,0,2358072,"20°/8, 110°/8, 200°/8, 290°/8",Digital,Digital
+57,"TVRI Bentiring","TVRI  ",Digital,-3.7676250000,102.3115390000,100.00,34,578,5.00,0,636027,"50°/4   140°/9   230°/2   320°/9",Digital,Digital
+58,"TVRI Gunung Betung","TVRI  ",Digital,-5.4063860000,105.1789580000,100.00,33,570,10.00,0,1572398,"10°/4 100°/4",Digital,Digital
+59,"TVRI Joglo","TVRI  ",Digital,-6.2207690000,106.7258190000,300.00,42,642,10.00,0,29341695,"0°/12, 90°/12, 180°/12, 270°/12",Digital,Digital
+60,"TVRI Panyandakan","TVRI  ",Digital,-6.8147640000,107.5604560000,65.00,35,586,5.00,0,0,"160°/12, 270°/12",Digital,Digital
+62,"TVRI Gombel","TVRI  ",Digital,-7.0447440000,110.4253970000,54.00,28,530,5.00,0,0,"0°/4, 90°/10, 180°/8, 270°/10",Digital,Digital
+63,"TVRI Pathuk","TVRI  ",Digital,-7.8375610000,110.5243220000,150.00,29,538,5.00,0,0,"45°/8,   135°/6,   225°/4,   315°/6",Digital,Digital
+64,"TVRI Pasir Sumbul","TVRI  ",Digital,-7.0853890000,107.1183060000,62.00,23,490,1.00,0,11199200,"110°/2 320°/4",Digital,Digital
+65,"TVRI Surabaya","TVRI  ",Digital,-7.2897330000,112.7140750000,114.00,35,586,5.00,0,10036591,"0°/8,  90°/8,  180°/8,  270°/8",Digital,Digital
+67,"TVRI Pontianak","TVRI  ",Digital,-0.0437140000,109.3407690000,100.00,32,562,10.00,0,1367888,"75°/4, 165°/4, 345°/4",Digital,Digital
+68,"TVRI Bengkayang","TVRI  ",Digital,0.8325560000,109.4908890000,65.00,46,674,2.00,0,0,"30°/4, 120°/6, 210°/6",Digital,Digital
+69,"TVRI Sambas","TVRI  ",Digital,1.3581170000,109.2998670000,65.00,36,594,5.00,0,230365,"0°/6, 90°/6, 180°/6, 270°/6",Digital,Digital
+70,"TVRI Balai Karangan","TVRI  ",Digital,0.8075080000,110.4217330000,65.00,32,562,2.00,0,137919,"80°/4, 170°/2, 260°/4, 350°/2",Digital,Digital
+71,"TVRI Sanggau Ledo","TVRI  ",Digital,1.1685030000,109.7227670000,65.00,28,530,2.00,0,230365,"50°/4, 220°/4, 315°/4",Digital,Digital
+72,"TVRI Sintang","TVRI  ",Digital,0.0712170000,111.5043110000,65.00,30,546,3.00,0,0,"60°/2, 150°/6, 240°/4",Digital,Digital
+73,"TVRI Banjarmasin","TVRI  ",Digital,-3.3461110000,114.6247220000,100.00,31,554,3.40,0,1901754,"30°/8, 120°/8, 210°/3, 300°/5",Digital,Digital
+74,"TVRI Palangkaraya","TVRI  ",Digital,-2.2121110000,113.9103670000,100.00,30,546,5.00,0,240108,"65°/8 , 155°/8 , 245°/8 , 355°/8",Digital,Digital
+75,"TVRI Gunung Lampu","TVRI  ",Digital,-0.5375000000,117.1463890000,65.00,28,530,5.00,0,1041957,"0°/6, 90°/6, 180°/6, 270°/6",Digital,Digital
+76,"TVRI Nunukan","TVRI  ",Digital,4.1410280000,117.6574390000,65.00,34,578,3.00,0,22016,"75°/4, 165°/6, 255°/4, 345°/2",Digital,Digital
+77,"TVRI Melak","TVRI  ",Digital,-0.2307500000,115.8155000000,65.00,31,554,3.00,0,0,"115°/5, 205°/5, 295°/2",Digital,Digital
+78,"TVRI Malinau","TVRI  ",Digital,3.5271500000,116.5910940000,65.00,28,530,5.00,0,0,"60°/12 , 240°/6 , 330°/6",Digital,Digital
+79,"TVRI Tarakan","TVRI  ",Digital,3.3048220000,117.5951390000,100.00,30,546,3.00,0,194198,"25°/2, 115°/2, 205°/4,  295°/4",Digital,Digital
+80,"TVRI Bukit Bakung","TVRI  ",Digital,-8.8187440000,115.1882330000,85.00,30,546,5.00,0,0,"45°/12 ,   315°/12",Digital,Digital
+81,"TVRI Mataram","TVRI  ",Digital,-8.5868890000,116.0886580000,45.00,29,538,1.00,0,1636710,"90°/4,   175°/2,   335°/2",Digital,Digital
+82,"TVRI Swela","TVRI  ",Digital,-8.5231420000,116.5740440000,65.00,44,658,4.00,0,716283,"45°/2   135°/2   215°/6   315°/2",Digital,Digital
+83,"TVRI Pujut","TVRI  ",Digital,-8.8821170000,116.2623670000,62.50,29,538,3.60,0,0,"20°/6  110°/6  290°/6",Digital,Digital
+84,"TVRI Oben","TVRI  ",Digital,-10.2704720000,123.6664030000,115.00,29,538,5.00,0,0,"55°/3   145°/2   235°/2   325°/4",Digital,Digital
+85,"TVRI Atambua","TVRI  ",Digital,-9.0914810000,124.8637860000,65.00,30,546,2.00,0,0,"0°/2,  90°/6, 180°/3,  270°/1",Digital,Digital
+86,"TVRI Soe","TVRI  ",Digital,-9.5280500000,124.2585000000,65.00,28,530,2.50,0,0,"0°/2   90°/6   180°/2   270°/2",Digital,Digital
+87,"TVRI  Kefamenanu","TVRI  ",Digital,-9.4603000000,124.4764670000,65.00,32,562,2.00,0,0,"0°/4 , 90°/4 , 180°/4 , 270°/4",Digital,Digital
+88,"TVRI Waingapu","TVRI  ",Digital,-9.6768970000,120.1935220000,65.00,28,530,2.00,0,0,"0°/2, 90°/6, 180°/3, 270°/1",Digital,Digital
+89,"TVRI Gunung Loka","TVRI  ",Digital,-5.4496830000,119.9169000000,45.00,29,538,2.00,0,0,"105°/6, 195°/6",Digital,Digital
+90,"TVRI Makassar","TVRI  ",Digital,-5.1606690000,119.4159220000,150.00,28,530,5.00,0,2717888,"30°/10, 120°/10, 210°/10, 300°/2",Digital,Digital
+91,"TVRI Palu","TVRI  ",Digital,-0.8868190000,119.8636690000,105.00,35,586,2.00,0,520365,"65°/3   155°/3   245°/3   335°/3",Digital,Digital
+92,"TVRI Kendari","TVRI  ",Digital,-3.9873530000,122.5085060000,100.00,30,546,5.00,0,232858,"60°/2   150°/4   240°/4   330°/6",Digital,Digital
+93,"TVRI Wanci","TVRI  ",Digital,-5.2948810000,123.5452310000,60.00,46,674,1.00,0,71810,"105°/2   200°/6   295°/4",Digital,Digital
+94,"TVRI Boepinang","TVRI  ",Digital,-4.8214110000,121.6766640000,75.00,46,674,2.00,0,0,"10°/4   100°/4   280°/4",Digital,Digital
+95,"TVRI Manado","TVRI  ",Digital,1.4794780000,124.8497280000,100.00,29,538,2.00,0,623028,"55°/4   145°/4   235°/4",Digital,Digital
+96,"TVRI Lirung","TVRI  ",Digital,4.0137500000,126.6417830000,40.00,46,674,2.00,0,0,"55°/8   145°/8",Digital,Digital
+97,"TVRI Tahuna","TVRI  ",Digital,3.6318170000,125.5143000000,65.00,31,554,1.00,0,0,"70°/8, 160°/8, 225°/4, 340°/4",Digital,Digital
+98,"TVRI Gorontalo","TVRI  ",Digital,0.5584610000,123.0487970000,79.00,34,578,2.00,0,612572,"32°/6   103°/2   189°/6   295°/2",Digital,Digital
+99,"TVRI Mamuju","TVRI  ",Digital,-2.7138500000,118.8587190000,65.00,28,530,2.50,0,85623,"0°/6,   90°/6,   180°/4",Digital,Digital
+100,"TVRI Bukit Greser","TVRI  ",Digital,-3.7196610000,128.1639610000,45.00,28,530,5.00,0,385521,"75°/4   255°/4   345°/4",Digital,Digital
+101,"TVRI Ternate","TVRI  ",Digital,0.7897610000,127.3555470000,65.00,28,530,2.00,0,278143,"15°/4   110°/6   215°/2 ",Digital,Digital
+102,"TVRI Saumlaki","TVRI  ",Digital,-7.9757330000,131.3059500000,65.00,28,530,2.00,0,0,"40°/6   130°/2   220°/4   310°/4",Digital,Digital
+103,"TVRI Bintuni","TVRI  ",Digital,-2.1191670000,133.5371170000,45.00,46,674,2.00,0,0,"0°/2 90°/6 180°/4 270°/4",Digital,Digital
+104,"TVRI Polemak","TVRI  ",Digital,-2.5499220000,140.7094280000,100.00,43,650,3.20,0,161995,"20°/2,  120°/2,   220°/8,  300°/4",Digital,Digital
+105,"TVRI Tanah Merah","TVRI  ",Digital,-6.0879170000,140.3045830000,35.00,46,674,2.00,0,0,"0°/4,  90°/4,  180°/4,   270°/4",Digital,Digital
+107,"Trans7 Nunukan","Trans 7",Digital,4.1394250000,117.6510190000,48.00,28,530000,0.28,0,12000,"4 Arah",Digital,Digital
+108,"TVRI Bayah","TVRI  ",Digital,-6.9435560000,106.2555000000,65.00,31,554,1.00,0,240086,"0°/4   300°/8",Digital,Digital
+109,"TVRI Gunung Malang","TVRI  ",Digital,-6.7291940000,107.6593330000,65.00,31,554,1.00,0,6027006,"35°/6   345°/6 ",Digital,Unknown
+110,"TVRI Gunung Gantungan","TVRI  ",Digital,-7.0701110000,109.2399720000,52.00,28,530,2.50,0,3897440,"45°/6   135°/4   315°/6                                                                                                    ",Digital,Unknown
+112,"TVRI Gunung Tugel","TVRI  ",Digital,-7.7109720000,109.9133610000,65.00,28,530,1.00,0,1855448,"30°/4 , 120°/4 , 210°/4 , 300°/4",Digital,Digital
+114,"TVRI Gunung Gending","TVRI  ",Digital,-8.2537780000,113.9352220000,85.00,29,538,1.00,0,3230027,"0°/3, 90°/3, 180°/3, 270°/3      ",Digital,Digital
+115,"TVRI Kota Bumi","TVRI  ",Digital,-4.7025000000,104.7841670000,65.00,31,554,1.00,0,1319866,"45°/6, 135°/2, 225°/2, 315°/6",Digital,Digital
+116,"TVRI Langsa","TVRI  ",Digital,4.5186470000,97.9334860000,100.00,29,538,2.50,0,701618,"40°/2,  140°/6,  220°/4,   310°/4   ",Digital,Digital
+117,"TVRI Sabang","TVRI  ",Digital,5.8552780000,95.3358330000,55.00,35,586,1.00,0,31430,"140°/3   190°/4   320°/4",Digital,Digital
+118,"TVRI Makadae","TVRI  ",Digital,-3.9502780000,119.6777780000,65.00,28,530,2.50,0,833940,"40°/8, 110°/2, 220°/2, 310°/4",Digital,Digital
+119,"TVRI Manokwari","TVRI  ",Digital,-0.8587500000,134.0626390000,65.00,28,530,5.00,0,116255,"50°/6,  140°/6, 230°/6, 320°/6",Digital,Digital
+121,"Metro Tv Banda Aceh","Metro TV",Digital,5.5103250000,95.2989110000,0.00,0,0,0.00,0,0,,Digital,Digital
+122,"Metro Tv Meulaboh","Metro TV",Digital,4.1700420000,96.1349530000,0.00,0,0,0.00,0,0,,Digital,Digital
+123,"Metro Tv Sabang","Metro TV",Digital,5.8523140000,95.3479440000,0.00,0,0,0.00,0,0,,Digital,Digital
+127,"Trans Tv Batam","Trans TV",Digital,1.1228690000,103.9455160000,125.00,46,674,1200.00,0,0,"Horizontal ",Digital,Digital
+128,"Trans Tv Cilegon","Trans TV",Digital,-6.0141480000,106.0793700000,60.00,40,626,0.50,0,0,"Horizontal ",Digital,Digital
+129,"Trans Tv Pandeglang","Trans TV",Digital,-6.2902600000,110.6114923000,60.00,40,626,0.50,0,0,"Horizontal ",Digital,Digital
+130,"Trans_7 Banjarmasin","Trans 7",Digital,-3.3166670000,113.6302190000,66.00,36,594000,0.80,0,0,"3 Arrah",Digital,Digital
+131,"Trans_7 Banda Aceh","Trans 7",Digital,5.5147220000,95.2385810000,50.00,32,562000,0.30,0,0,"2 Arah",Digital,Digital
+132,"Trans_7 Samarinda","Trans 7",Digital,-0.5371280000,117.1465750000,68.00,31,554000,0.50,0,0,"3 Arah",Digital,Digital
+133,"Trans TV Bandung","Trans TV",Digital,-6.8153530000,107.5603550000,85.00,45,664,2.40,0,7862249,"Horizontal ",Digital,Digital
+134,"Trans TV Cianjur Selatan","Trans TV",Digital,-7.0851110000,107.1182750000,60.00,40,626,0.50,0,0,"Horizontal ",Digital,Digital
+135,"Trans TV Cirebon","Trans TV",Digital,-6.8116670000,108.4374170000,100.00,41,634,1.20,0,0,"Horizontal ",Digital,Digital
+136,"Trans TV Garut","Trans TV",Digital,-7.1803530000,107.9770830000,40.00,40,626,-1.00,0,0,"Horizontal ",Digital,Digital
+137,"Trans TV Jakarta","Trans TV",Digital,-6.2161670000,106.7244440000,250.00,40,626,3.50,0,0,"Omni Horizontal ",Digital,Digital
+138,"Trans TV Jember","Trans TV",Digital,-8.1604110000,113.5539200000,80.00,48,690,1.20,0,0,"Horizontal ",Digital,Digital
+139,"Trans TV Kediri","Trans TV",Digital,-7.8632020000,111.8561250000,60.00,48,690,1.20,0,0,"Horizontal ",Digital,Digital
+140,"Trans TV Madiun","Trans TV",Digital,-7.6733330000,111.2386110000,0.00,0,0,0.00,0,0,,Digital,Digital
+141,"Trans TV Purwokerto","Trans TV",Digital,-7.5493610000,109.2510560000,60.00,40,626,1.20,0,0,"Horizontal ",Digital,Digital
+142,"Trans TV Semarang","Trans TV",Digital,-7.0439170000,110.4243330000,125.00,42,642,2.50,0,0,"Horizontal ",Digital,Digital
+143,"Trans TV Sukabumi","Trans TV",Digital,-6.8717660000,106.9715720000,60.00,45,666,1.20,0,0,"Horizontal ",Digital,Digital
+144,"Trans TV Sumedang","Trans TV",Digital,-6.8128610000,107.9534170000,60.00,41,634,1.20,0,0,"Horizontal ",Digital,Digital
+145,"Trans TV Surabaya","Trans TV",Digital,-7.2741670000,112.6758330000,200.00,27,524,2.50,0,0,"Horizontal ",Digital,Digital
+146,"Trans TV Tasikmalaya","Trans TV",Digital,-7.3289950000,108.2489820000,60.00,42,642,0.50,0,0,"Horizontal ",Digital,Digital
+147,"Trans TV Yogyakarta","Trans TV",Digital,-7.8379720000,110.5010560000,100.00,47,682,2.50,0,0,"Horizontal ",Digital,Digital
+148,"Trans_7 Balikpapan","Trans 7",Digital,-1.2472220000,116.8388890000,60.00,44,658000,0.50,0,0,"4 Arah",Digital,Digital
+151,"Metro Tv Bandung","Metro TV",Digital,-6.8163890000,107.5612500000,90.00,32,562,1.00,0,0,"0°/2, 90°/4, 180°/6, 270°/6",Digital,Digital
+152,"Metro Tv Banjarmasin","Metro TV",Digital,-3.3305560000,114.6302780000,62.00,45,666,1.00,0,0,"0°/4, 90°/4, 180°/4, 270°/4",Digital,Digital
+153,"Metro TV Banyumas","Metro TV",Digital,-7.5475830000,109.2505000000,80.00,34,578,1.25,0,0,"0°/4, 90°/4, 180°/4, 270°/4",Digital,Digital
+154,"Metro Tv Banyuwangi","Metro TV",Digital,-8.1811360000,114.2522500000,72.00,34,578,0.30,0,0,"45°/2, 135°/2",Digital,Digital
+155,"Metro TV Bireuen","Metro TV",Digital,5.2115080000,96.7239280000,0.00,0,0,0.00,0,0,,Digital,Digital
+156,"Metro Tv Cirebon","Metro TV",Digital,-6.8129440000,108.4359170000,60.00,32,562,1.25,0,0,"60°/6, 350°/6",Digital,Digital
+157,"Metro Tv Garut","Metro TV",Digital,-7.2892500000,107.8878610000,50.00,23,490,0.30,0,0,"10°/4, 100°/2, 280°/2",Digital,Digital
+158,"Metro Tv Gunung Sitoli","Metro TV",Digital,1.2880280000,97.6085330000,0.00,0,0,0.00,0,0,,Digital,Digital
+159,"Metro Tv Jakarta","Metro TV",Digital,-6.2185479000,106.7294358000,330.00,32,562,5.00,0,0,"0°/12,90°/12,180°/12,270°/12",Digital,Digital
+160,"Metro Tv Jember","Metro TV",Digital,-8.1715970000,113.6013030000,72.00,46,674,1.00,0,0,"45°/4, 135°/2, 225°/2",Digital,Digital
+161,"Metro Tv Kabanjahe","Metro TV",Digital,3.1643830000,98.5112920000,0.00,0,0,0.00,0,0,,Digital,Digital
+163,"Metro Tv Kediri","Metro TV",Digital,-7.8569500000,111.8929810000,58.00,47,682,1.25,0,0,"0°/3, 90°/3, 180°/3",Digital,Digital
+164,"Metro Tv Kisaran","Metro TV",Digital,2.9065170000,99.5365280000,0.00,0,0,0.00,0,0,,Digital,Digital
+166,"Metro Tv Kotacane","Metro TV",Digital,3.4835970000,97.8256440000,0.00,0,0,0.00,0,0,,Digital,Digital
+167,"Metro Tv Lhokseumawe","Metro TV",Digital,5.1178280000,97.1535190000,0.00,0,0,0.00,0,0,,Digital,Digital
+168,"Metro Tv Madiun","Metro TV",Digital,-7.6733770000,111.2388520000,77.00,34,578,1.25,0,0,"0°/5, 90°/5, 180°/2",Digital,Digital
+169,"Metro Tv Malinau","Metro TV",Digital,3.5447500000,116.6116390000,50.00,48,690,0.30,0,0,"40°/2, 130°/2, 220°/2, 310°/2",Digital,Digital
+170,"Metro tv Medan","Metro TV",Digital,3.2759750000,98.5532720000,0.00,0,0,0.00,0,0,,Digital,Digital
+171,"Metro Tv Nunukan","Metro TV",Digital,4.1394580000,117.6510390000,0.00,0,0,0.00,0,0,,Digital,Digital
+172,"Metro Tv Pacitan","Metro TV",Digital,-8.1805560000,111.1613890000,72.00,39,618,0.30,0,0,"0°/4, 90°/2, 180°/2, 270°/4",Digital,Digital
+173,"Metro tv Padang Sidempuan","Metro TV",Digital,1.3891560000,99.2631080000,0.00,0,0,0.00,0,0,,Digital,Digital
+175,"Metro Tv Pematang Siantar","Metro TV",Digital,2.8230250000,98.7718310000,0.00,0,0,0.00,0,0,,Digital,Digital
+176,"Metro Tv Pamekasan","Metro TV",Digital,-7.0555810000,113.5250330000,72.00,39,618,1.25,0,0,"10°/4, 100°/4, 190°/4, 280°/4",Digital,Digital
+178,"Metro Tv Semarang","Metro TV",Digital,-7.0443890000,110.4244170000,120.00,36,594,1.25,0,0," 0°/8, 90°/8, 180°/8, 270°/8",Digital,Digital
+180,"Metro Tv Sibolga","Metro TV",Digital,1.7517280000,98.7785670000,0.00,0,0,0.00,0,0,,Digital,Digital
+181,"Metro Tv Sidikalang","Metro TV",Digital,2.6983940000,98.3046140000,0.00,0,0,0.00,0,0,,Digital,Digital
+183,"Metro TV Sinabang","Metro TV",Digital,2.4702110000,96.3852780000,0.00,0,0,0.00,0,0,,Digital,Digital
+184,"Metro Tv Singkil","Metro TV",Digital,2.3640420000,97.9334690000,0.00,0,0,0.00,0,0,,Digital,Digital
+185,"Metro Tv Sukabumi","Metro TV",Digital,-6.8709890000,106.9546890000,40.00,33,570,0.30,0,0,"190°/2, 250°/2",Digital,Digital
+186,"Metro TV Surabaya","Metro TV",Digital,-7.2781740000,112.6762080000,250.00,25,506,1.25,0,0,"45°/12, 135°/12, 225°/12, 315°/12",Digital,Digital
+187,"Metro TV Takengon","Metro TV",Digital,4.6625440000,96.8068080000,0.00,0,0,0.00,0,0,,Digital,Digital
+189,"Metro Tv Tarakan","Metro TV",Digital,3.3963920000,117.5395170000,54.00,45,666,0.50,0,0,"80°/4, 170°/3, 260°/3, 350°/2",Digital,Digital
+190,"Metro Tv Tarutung","Metro TV",Digital,1.9891170000,98.9508060000,0.00,0,0,0.00,0,0,,Digital,Digital
+191,"Metro Tv Tasikmalaya","Metro TV",Digital,-7.3655460000,107.9734600000,25.00,33,570,1.25,0,0,90°/4,Digital,Digital
+192,"Metro Tv Tegal","Metro TV",Digital,-7.0703060000,109.2419720000,65.00,38,610,1.25,0,0,"0°/4, 90°/4, 270°/4",Digital,Digital
+193,"Metro Tv Tuban","Metro TV",Digital,-7.0116670000,112.0072220000,70.00,47,682,0.50,0,0,"0°/4, 90°/4, 180°/4, 270°/4",Digital,Digital
+194,"Metro Tv Yogyakarta","Metro TV",Digital,-7.8365830000,110.5273060000,120.00,27,522,1.25,0,0,"0°/8, 90°/8, 180°/8, 270°/8",Digital,Digital
+195,"TVRI Baribis","TVRI  ",Digital,-7.1206530000,108.8549780000,65.00,28,530,1.00,0,2647285,"18°/4,  108°/8 , 198°/2 , 288°/2",Digital,Digital
+196,"TVRI Boroko","TVRI  ",Digital,0.8946360000,123.2331080000,65.00,28,530,1.00,0,72264,"10°/6, 190°/6 , 280°/4",Digital,Digital
+197,"TVRI Cikurai","TVRI  ",Digital,-7.3047000000,107.8813140000,66.00,43,650,2.50,0,1847048,"0°/8 , 90°/8",Digital,Digital
+198,"TVRI Donggala","TVRI  ",Digital,-0.6708190000,119.7457140000,25.00,32,562,1.00,0,25716,"40°/4 , 130°/4 , 220°/4 , 310°/4",Digital,Digital
+199,"TVRI Gn. Sitoli","TVRI  ",Digital,1.2880750000,97.6159170000,65.00,29,538,1.00,0,114450,"170°/4 , 230°/4 , 320°/4 ",Digital,Digital
+200,"TVRI Gn.Depok","TVRI  ",Digital,-7.5562920000,109.2537140000,118.00,30,546,5.00,0,4917294,"0°/4 , 90°/8 , 180°/4 , 270°/8     ",Digital,Digital
+201,"TVRI Gn.Muntai","TVRI  ",Digital,-2.9857310000,106.5250170000,50.00,45,666,2.50,0,2655,"5°/8 , 95°/4 , 275°/4",Digital,Digital
+202,"TVRI Gn.Doek","TVRI  ",Digital,-7.9466250000,113.1336530000,85.00,31,554,2.50,0,1347652,"35°/8 , 125°/8",Digital,Digital
+203,"TVRI Gn.Walad","TVRI  ",Digital,-6.9137220000,106.8361250000,29.00,31,554,1.00,0,2461847,"0°/4 , 90°/4 , 180°/ , 270°/",Digital,Digital
+204,"TVRI Ipuh","TVRI  ",Digital,-2.9927860000,101.4926420000,65.00,45,666,45.00,0,39836,"50°/4 , 140°/8 , 330°/4",Digital,Digital
+205,"TVRI Kandangan","TVRI  ",Digital,-2.8557190000,115.2480420000,85.00,30,546,2.50,0,810797,"0°/6, 90°/4, 210°/3, 270°/3",Digital,Digital
+206,"TVRI Kijang","TVRI  ",Digital,0.8435750000,104.5998060000,75.00,48,690,2.50,0,321542,"25°/4 , 115°/4 , 205°/4 , 295°/4",Digital,Digital
+207,"TVRI Kuala Tungkal","TVRI  ",Digital,-1.0269440000,103.0405560000,65.00,43,650,1.00,0,131687,"60°/4 , 150°/4 , 240°/4 , 330°/4",Digital,Digital
+208,"TVRI Masohi","TVRI  ",Digital,-3.3229920000,128.9410310000,65.00,29,538,1.00,0,80968,"50°/4 , 140°/2 , 230°/8 , 320°/2 ",Digital,Digital
+209,"TVRI Merauke","TVRI  ",Digital,-8.4886780000,140.3875250000,65.00,28,530,2.50,0,152375,"45°/6 , 135°/4 , 225°/2 , 315°/4",Digital,Digital
+210,"TVRI Natuna","TVRI  ",Digital,3.9371780000,108.3712580000,65.00,48,690,1.00,0,25961,"65°/2 ,  180°/4 ,  245°/4,  335°/2    ",Digital,Digital
+211,"TVRI Paguyaman","TVRI  ",Digital,0.5584610000,123.0487970000,40.00,28,530,0.25,0,467951,"60°/1 , 130°/1 , 240° , 315°",Digital,Digital
+212,"TVRI Pasir Pangarayan","TVRI  ",Digital,0.8560500000,100.3053390000,65.00,29,538,1.00,0,332301,"35°/6 , 125°/4 ,   215°/2,   305°/4  ",Digital,Digital
+213,"TVRI Sampit","TVRI  ",Digital,-2.5639440000,112.9517440000,85.00,28,530,2.50,0,260892,"0°/8, 90°/4, 180°/6, 270°/6",Digital,Digital
+214,"TVRI Semanggi","TVRI  ",Digital,-7.0584220000,111.4387860000,65.00,30,546,1.00,0,866160,"110°/4 , 195°/4 , 270°/8 ",Digital,Digital
+215,"TVRI Sorong","TVRI  ",Digital,-0.8698670000,131.2627720000,65.00,28,530,1.00,0,280544,"130°/8 ,  210°/8 ",Digital,Digital
+216,"TVRI Toboli","TVRI  ",Digital,-0.7119720000,120.0941640000,85.00,32,562,1.00,0,86406,"140°/6 , 320°/6  ",Digital,Digital
+217,"TVRI Tuban","TVRI  ",Digital,-7.0154940000,112.0114000000,85.00,43,650,2.50,0,2386080,"25°/6 , 115°/2 , 205°/4 , 295°/4",Digital,Digital
+218,"TVRI Bima","TVRI  ",Digital,-8.5436310000,118.8110780000,75.00,28,530,1.00,0,764274,"105°/6 , 275°/6 , 315°/4",Digital,Digital
+219,"TVRI Seganteng","TVRI  ",Digital,-8.5875810000,116.3470780000,80.00,29,538,2.50,0,2874738,"90°/8 , 180°/8 , 270°/8     ",Digital,Digital
+220,"TVRI Padang Sidempuan","TVRI  ",Digital,1.2880750000,99.2556420000,45.00,28,530,1.00,0,584791,"50°/4,  135°/8 , 235°/2,  280°/2 ",Digital,Digital
+221,"TVRI Sinabang","TVRI  ",Digital,2.4699670000,96.3849720000,53.00,29,538,1.00,0,26192,"265°/8,  320°/8",Digital,Digital
+222,"TVRI Gn.Tela","TVRI  ",Digital,-6.5277440000,106.5468580000,65.00,38,610,5.00,0,31214901,"40°/8 , 130°/8 , 310°/8",Digital,Digital
+223,"TVRI Morotai","TVRI  ",Digital,2.0100000000,128.2826690000,65.00,28,530,1.00,0,24135,"0°/8 , 90°/8",Digital,Digital
+227,"TVRI Simpang Pematang","TVRI  ",Digital,-4.0236750000,105.2503720000,65.00,30,546,1.00,0,323690,"90°/4 , 180°/6 , 270°/6 ",Digital,Digital
+228,"Metro Tv Balige","Metro TV",Digital,2.3344170000,99.0369440000,0.00,0,0,0.00,0,0,,Digital,Digital
+229,"Metro Tv Tanjung Redeb","Metro TV",Digital,2.1488060000,117.4832580000,0.00,0,0,0.00,0,0,,Digital,Digital
+230,"Metro Tv Tanjung Selor","Metro TV",Digital,2.8436110000,117.4016670000,50.00,45,665,0.30,0,0,"Omni Directional/1",Digital,Digital
+232,"Metro Tv Rantauprapat","Metro TV",Digital,2.0810000000,99.8409640000,0.00,0,0,0.00,0,0,,Digital,Digital
+233,"Trans TV Tegal","Trans TV",Digital,-7.0702780000,109.2372220000,100.00,44,658,1.20,0,0,"Horizontal ",Digital,Digital
+234,"TVRI sungai Penuh","TVRI  ",Digital,-2.0340610000,101.4082140000,75.00,30,546,1.00,0,200682,"30°/2 , 120°/6 , 210°/4 , 300°/4",Digital,Digital
+235,"TVRI Maumere","TVRI  ",Digital,-8.6325560000,122.2246690000,65.00,30,546,0.00,0,270335,"45°/4, 135°/4 , 225°/4, 315°/4",Unknown,Digital
+236,"TVRI Garung","TVRI  ",Digital,-7.3514560000,110.0292530000,65.00,30,546,2.50,0,3313771,"60°/6,  240°/6 ",Digital,Digital
+237,"TVRI Labuan Bajo","TVRI  ",Digital,-8.4907220000,119.8809440000,65.00,29,538,0.00,0,150659,"50°/4, 140°/4 , 230°/4, 320°/4",Unknown,Digital
+238,"TVRI Parapat","TVRI  ",Digital,2.6663170000,98.9271110000,0.00,0,0,0.00,0,160678,,Unknown,Digital
+239,"TVRI Sibolga","TVRI  ",Digital,1.7489260000,98.7745320000,0.00,0,0,0.00,0,388138,,Unknown,Digital
+240,"Metro Tv Sendawar","Metro TV",Digital,-0.2317000000,115.8057330000,60.00,40,626,0.30,0,0,"0°/2, 90°/2, 180°/2, 270°/2",Digital,Digital
+241,"Metro Tv Sangatta","Metro TV",Digital,0.4961190000,117.5058890000,50.00,42,642,0.30,0,0,"0°/3, 90°/3, 180°/3, 270°/3",Digital,Digital
+242,"Metro TV Sigli","Metro TV",Digital,5.3802530000,95.9658140000,0.00,0,0,0.00,0,0,,Unknown,Unknown
+243,"Trans7 Pematang Siantar","Trans 7",Digital,2.9486110000,99.0633330000,0.00,0,0,0.00,0,0,,Unknown,Unknown
+244,"Trans7 Medan","Trans 7",Digital,3.2563890000,98.5391670000,0.00,0,0,0.00,0,0,,Unknown,Unknown
